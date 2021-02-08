@@ -1,7 +1,7 @@
 //
-//  UUIImage+TransferImageData.h
+//  convert.h
 //
-//  Created by HW on 2020/4/10.
+//  Created by ZDH on 2021/02/08.
 //
 
 #import <UIKit/UIKit.h>
